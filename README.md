@@ -23,3 +23,4 @@ The program was written in Python.
 <h2>📷 Photo:</h2>
 <a href="https://imgur.com/pEzJboc"><img src="https://i.imgur.com/pEzJboc.jpg" title="source: imgur.com" /></a>
 <a href="https://imgur.com/3nCrnjO"><img src="https://i.imgur.com/3nCrnjO.jpg" title="source: imgur.com" /></a>
+<a href="https://imgur.com/HUJQ0S0"><img src="https://i.imgur.com/HUJQ0S0.jpg" title="source: imgur.com" /></a>
